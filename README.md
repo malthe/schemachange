@@ -1,5 +1,5 @@
 # schemachange
-<img src="images/schemachange-logo-title.png" alt="schemachange" title="schemachange logo" width="600" />
+<img src="images/schemachange-logo-title.png?raw=true" alt="schemachange" title="schemachange logo" width="600" />
 
 *Looking for snowchange? You've found the right spot. snowchange has been renamed to schemachange.*
 
